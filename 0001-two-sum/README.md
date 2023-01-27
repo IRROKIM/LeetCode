@@ -36,3 +36,7 @@
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than&nbsp;<code>O(n<sup>2</sup>)&nbsp;</code>time complexity?</div>
+
+<p>&nbsp;</p>
+<h2> 나의 계산법 </h2>
+<img width="100%" src="https://user-images.githubusercontent.com/96688408/215096008-a5197646-21fa-4737-ab79-90a786346314.PNG"/>
