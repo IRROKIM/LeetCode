@@ -28,3 +28,7 @@
 	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>-10^6&nbsp;&lt;= nums[i] &lt;=&nbsp;10^6</code></li>
 </ul></div>
+
+<p>&nbsp;</p>
+<h2> 나의 계산법 </h2>
+<img width="100%" src="https://user-images.githubusercontent.com/96688408/219556736-bc92f706-0244-40a5-af92-5f80a06bce1b.JPG" />
